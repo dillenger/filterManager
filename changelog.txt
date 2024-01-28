@@ -1,0 +1,13 @@
+Changelog for Filter Manager
+
+1.2
+Removed deprecated code for Services.jsm.
+Set minimum version to Thunderbird 115.0.
+Set maximum version to Thunderbird 119.*.
+
+1.1
+Set minimum version to Thunderbird 91.0.
+Set maximum version to Thunderbird 103.0.
+
+1.0
+First release.
