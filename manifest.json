@@ -3,7 +3,7 @@
   "name": "Filter Manager",
   "description": "Adds a Filters Button, opens the Message Filters dialog",
   "homepage_url": "https://addons.thunderbird.net/en-US/thunderbird/addon/filter-manager/",
-  "version": "1.2",
+  "version": "1.3",
   "experiment_apis": {
     "filterManagerApi": {
       "schema": "schema.json",
@@ -34,7 +34,7 @@
     "gecko": {
       "id": "filterManager@dillinger",
       "strict_min_version": "115.0",
-      "strict_max_version": "130.*"
+      "strict_max_version": "131.*"
     }
   },
   "icons": {

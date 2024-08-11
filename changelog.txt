@@ -1,5 +1,8 @@
 Changelog for Filter Manager
 
+1.3
+ESMified the add-on.
+
 1.2
 Removed deprecated code for Services.jsm.
 Set minimum version to Thunderbird 115.0.
